@@ -1,2 +1,2 @@
-# DataCamp_Projects
+# DataCamp Projects
 Repository of completed projects provided by DataCamp.
